@@ -19,7 +19,7 @@
 
 <p align="center">Sou apenas um jovem de 18 anos bem sucedido na web e fora da web. </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dxn&color=060606" alt="dxn7plu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dxn7&color=060606" alt="dxn7plu" /> </p>
 
 #                                                                   *BIO* 
 
@@ -27,7 +27,7 @@
 
         |❄️|tenho 18 anos
 
-        |❄️|Estudando de direito
+        |❄️|Estudante de direito
 
         |❄️| Membro da 47 Team
 
