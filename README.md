@@ -21,15 +21,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dxn7&color=060606" alt="dxn7plu" /> </p>
 
-#                                                                   *BIO* 
-
-        |❄️|Meu apelido: Dan
-
-        |❄️|tenho 18 anos
-
-        |❄️|Estudante de direito
-
-        |❄️| Membro da 47 Team
+# 
 
      
 
