@@ -27,8 +27,7 @@
 
 ### *Spotify Playing* <img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/791484734156439563/801991796229931068/GMusic_Fourteenth.gif" width="30" height="30" />
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q?si=sctTCqEwTD6PcF0FkwtRwQ)
-
+ 
 #
 
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/648627798281551875/801990509291241512/c798b98e36fe076c83d34aed68de77eb.gif" height="400" width="800" />
