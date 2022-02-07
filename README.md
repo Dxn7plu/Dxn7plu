@@ -25,7 +25,7 @@
 
      
 
-### *Spotify Playing* <img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/791484734156439563/801991796229931068/GMusic_Fourteenth.gif" width="30" height="30" />
+###   <img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/791484734156439563/801991796229931068/GMusic_Fourteenth.gif" width="30" height="30" />
 
  
 #
