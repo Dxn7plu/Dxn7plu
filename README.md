@@ -17,7 +17,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Dxn7plu/Dxn7plu/blob/main/GIF-210121_223239.gif" />
 
-<p align="center">Sou apenas um jovem de 18 anos bem sucedido na web e fora da web. </p>
+<p align="center">  </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dxn7&color=060606" alt="dxn7plu" /> </p>
 
